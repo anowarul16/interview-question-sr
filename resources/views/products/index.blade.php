@@ -39,7 +39,7 @@
 
         <div class="card-body">
             <div class="table-response">
-                <table class="table">
+                <table class="table table-hover productTable">
                     <thead>
                     <tr>
                         <th>#</th>
@@ -84,7 +84,7 @@
             </div>
 
         </div>
-
+<!-- 
         <div class="card-footer">
             <div class="row justify-content-between">
                 <div class="col-md-6">
@@ -94,7 +94,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
 @endsection
